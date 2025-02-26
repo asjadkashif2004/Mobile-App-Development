@@ -1,1 +1,1 @@
-The nmain code file is in lib folder
+The main code file is in lib folder
